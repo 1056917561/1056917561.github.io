@@ -17,10 +17,10 @@ sidebar-avatar: /img/about.png      # use absolute URL, seeing it's used in both
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     "1056917561"
 # zhihu_username:     "1056917561"
- github_username:    "1056917561"
+ github_username:    1056917561
 # facebook_username:  "1056917561"
 # jianshu_username:   "1056917561"
 # twitter_username:   "1056917561"
